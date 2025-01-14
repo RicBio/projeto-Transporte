@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Viisual Studio\\repos\\Projeto Transporte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A01DA38F-6538-47AA-87BD-DAC41896E8F9}|Projeto Transporte.csproj|F:\\Viisual Studio\\repos\\Projeto Transporte\\empresafretamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01DA38F-6538-47AA-87BD-DAC41896E8F9}|Projeto Transporte.csproj|solutionrelative:empresafretamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01DA38F-6538-47AA-87BD-DAC41896E8F9}|Projeto Transporte.csproj|f:\\viisual studio\\repos\\projeto transporte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01DA38F-6538-47AA-87BD-DAC41896E8F9}|Projeto Transporte.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01DA38F-6538-47AA-87BD-DAC41896E8F9}|Projeto Transporte.csproj|F:\\Viisual Studio\\repos\\Projeto Transporte\\garagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01DA38F-6538-47AA-87BD-DAC41896E8F9}|Projeto Transporte.csproj|solutionrelative:garagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01DA38F-6538-47AA-87BD-DAC41896E8F9}|Projeto Transporte.csproj|F:\\Viisual Studio\\repos\\Projeto Transporte\\viagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01DA38F-6538-47AA-87BD-DAC41896E8F9}|Projeto Transporte.csproj|solutionrelative:viagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01DA38F-6538-47AA-87BD-DAC41896E8F9}|Projeto Transporte.csproj|F:\\Viisual Studio\\repos\\Projeto Transporte\\van.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01DA38F-6538-47AA-87BD-DAC41896E8F9}|Projeto Transporte.csproj|solutionrelative:van.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Garagem.cs",
+              "DocumentMoniker": "F:\\Viisual Studio\\repos\\Projeto Transporte\\Garagem.cs",
+              "RelativeDocumentMoniker": "Garagem.cs",
+              "ToolTip": "F:\\Viisual Studio\\repos\\Projeto Transporte\\Garagem.cs",
+              "RelativeToolTip": "Garagem.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:30:59.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpresaFretamento.cs",
+              "DocumentMoniker": "F:\\Viisual Studio\\repos\\Projeto Transporte\\EmpresaFretamento.cs",
+              "RelativeDocumentMoniker": "EmpresaFretamento.cs",
+              "ToolTip": "F:\\Viisual Studio\\repos\\Projeto Transporte\\EmpresaFretamento.cs",
+              "RelativeToolTip": "EmpresaFretamento.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAowNcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:30:27.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Viagem.cs",
+              "DocumentMoniker": "F:\\Viisual Studio\\repos\\Projeto Transporte\\Viagem.cs",
+              "RelativeDocumentMoniker": "Viagem.cs",
+              "ToolTip": "F:\\Viisual Studio\\repos\\Projeto Transporte\\Viagem.cs",
+              "RelativeToolTip": "Viagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:30:04.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Van.cs",
+              "DocumentMoniker": "F:\\Viisual Studio\\repos\\Projeto Transporte\\Van.cs",
+              "RelativeDocumentMoniker": "Van.cs",
+              "ToolTip": "F:\\Viisual Studio\\repos\\Projeto Transporte\\Van.cs",
+              "RelativeToolTip": "Van.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:29:43.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Viisual Studio\\repos\\Projeto Transporte\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Viisual Studio\\repos\\Projeto Transporte\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAowKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:27:26.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

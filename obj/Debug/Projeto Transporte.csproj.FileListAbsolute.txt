@@ -1,0 +1,7 @@
+F:\Viisual Studio\repos\Projeto Transporte\obj\Debug\Projeto Transporte.csproj.AssemblyReference.cache
+F:\Viisual Studio\repos\Projeto Transporte\obj\Debug\Projeto Transporte.csproj.CoreCompileInputs.cache
+F:\Viisual Studio\repos\Projeto Transporte\bin\Debug\Projeto Transporte.exe.config
+F:\Viisual Studio\repos\Projeto Transporte\bin\Debug\Projeto Transporte.exe
+F:\Viisual Studio\repos\Projeto Transporte\bin\Debug\Projeto Transporte.pdb
+F:\Viisual Studio\repos\Projeto Transporte\obj\Debug\Projeto Transporte.exe
+F:\Viisual Studio\repos\Projeto Transporte\obj\Debug\Projeto Transporte.pdb
